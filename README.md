@@ -11,4 +11,4 @@ pip3 install selenium webdriver-manager
 
 brew install --cask google-chrome
 
-python3 usb_monitor.py
+python3 abacus.py
